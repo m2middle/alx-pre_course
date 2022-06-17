@@ -2,6 +2,6 @@
 update_script
 echo "ALX School" 
 
-echo "ALX School so cool!" 
+echo "update_script" 
 master
 
