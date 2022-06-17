@@ -1,9 +1,21 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+ update_script
+#!/bin/bash 
+echo "The school is open!" 
+
+
+>>>>>>> 58b943293fdfc2672fc25a4b6295da352aaa8f18
 #!/bin/bash  
-echo "The school is open" 
+echo "The school is open!" 
  
+<<<<<<< HEAD
 =======
 #!/bin/bash 
 echo "The school is open" 
 
 >>>>>>> update_script
+=======
+master
+>>>>>>> 58b943293fdfc2672fc25a4b6295da352aaa8f18
